@@ -1,0 +1,15 @@
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\bin\Release\Calculator App.exe.config
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\bin\Release\Calculator App.exe.manifest
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\bin\Release\Calculator App.application
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\bin\Release\Calculator App.exe
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\bin\Release\Calculator App.pdb
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\obj\Release\Calculator App.csproj.AssemblyReference.cache
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\obj\Release\Calculator App.csproj.SuggestedBindingRedirects.cache
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\obj\Release\Calculator_App.Calculator.resources
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\obj\Release\Calculator_App.Properties.Resources.resources
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\obj\Release\Calculator App.csproj.GenerateResource.cache
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\obj\Release\Calculator App.csproj.CoreCompileInputs.cache
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\obj\Release\Calculator App.exe.manifest
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\obj\Release\Calculator App.application
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\obj\Release\Calculator App.exe
+C:\Users\g.chen\Downloads\Coding\C#\Calculator App\Calculator App\obj\Release\Calculator App.pdb
